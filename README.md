@@ -7,8 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Software Engineering Lab
 - 🌱 I’m currently learning Html,CSS,JS,Database,PHP.Python
 - 👯 I’m looking to collaborate on Software Engineering Lab
-- 🤔 I’m looking for help with Friends
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with
 - 📫 How to reach me: ...	khanrukaiya78@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
